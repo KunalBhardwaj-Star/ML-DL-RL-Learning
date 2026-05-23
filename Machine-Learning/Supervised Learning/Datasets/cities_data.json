@@ -1,0 +1,8 @@
+{
+    "cities" : [
+        {"name" : "Bombay" , "population" : 70000000},
+        {"name" : "Delhi" , "population" : 30000000},
+        {"name" : "Bangalore" , "population" : 15000000},
+        {"name" : "Chennai" , "population" : 10000000}  
+    ]
+}
